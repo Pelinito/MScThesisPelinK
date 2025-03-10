@@ -1,3 +1,5 @@
+% The subjects are brought together in corresponding conditions under one big subject to keep all trials for that condition
+
 clear all;
 close all;
 clc;
