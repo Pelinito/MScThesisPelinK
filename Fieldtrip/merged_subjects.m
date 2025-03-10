@@ -5,7 +5,7 @@
 
 % Epoching and channel selection will follow the merged data.
 
-
+% Script mostly written by me to be used with Eva Marie von Butler
 
 %% Beginning
 

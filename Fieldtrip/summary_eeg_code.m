@@ -1,5 +1,7 @@
 %% SUMMARY EEG TABLES
 
+% This script is written with Eva Marie von Butler
+
 % Follow the instructions. They need to be placed to the different
 % sections of the script.
 

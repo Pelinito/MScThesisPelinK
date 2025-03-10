@@ -1,3 +1,5 @@
+% Script written with Eva Marie von Butler
+
 % path itself
 %cd C:\Users\pelin\Desktop\Tez;
 %datapath = "C:\Users\pelin\Desktop\Tez";

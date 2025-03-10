@@ -1,6 +1,5 @@
-%% Preprocess for the FieldTrip
+%% Preprocess for tfce in Fieldtrip
 
-% Start with the Holy Trinity
 
 clear all;
 close all;

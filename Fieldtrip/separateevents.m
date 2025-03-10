@@ -1,5 +1,7 @@
 %% Separate the events
 
+% My function to separate the conditions easier on the main script
+
 % SEPARATEEVENTS - Extracts the given events from the EEG data
 %
 %
